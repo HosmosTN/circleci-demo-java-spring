@@ -1,4 +1,4 @@
-# CircleCI 2.0 Java Demo Application using Gradle and Spring [![CircleCI status](https://dl.circleci.com/status-badge/img/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/main)
+# CircleCI 2.0 Java Demo Application using Gradle and Spring [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/master)
 
 **Note:** This project is currently under substantial development to include additional use cases and show off more features of CircleCI.
 
