@@ -6,7 +6,7 @@ jobs:
       _JAVA_OPTIONS: "-Xmx3g"
       GRADLE_OPTS: "-Dorg.gradle.daemon=false -Dorg.gradle.workers.max=2"
     docker:
-      - image: cimg/openjdk:11.0.3-jdk-stretch
+      - image: openjdk:11.0.3-jdk-stretch
     steps:
       - checkout
       - restore_cache:
@@ -36,8 +36,8 @@ jobs:
       _JAVA_OPTIONS: "-Xmx3g"
       GRADLE_OPTS: "-Dorg.gradle.daemon=false -Dorg.gradle.workers.max=2"
     docker:
-      - image: cimg/openjdk:11.0.3-jdk-stretch
-      - image: cimg/postgres:12-alpine
+      - image: openjdk:11.0.3-jdk-stretch
+      - image: postgres:12-alpine
         environment:
           POSTGRES_USER: postgres
           POSTGRES_DB: circle_test
