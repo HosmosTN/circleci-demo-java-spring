@@ -1,8 +1,8 @@
-# CircleCI 2.0 Java Demo Application using Gradle and Spring [![CircleCI status](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring.svg "CircleCI status")](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring)
+# CircleCI 2.0 Java Demo Application using Gradle and Spring [![CircleCI status](https://dl.circleci.com/status-badge/img/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/LTBsuqFwrXiWpGx8ncgZ46/Djx9KQv31iXN47UXne3dY/tree/main)
 
 **Note:** This project is currently under substantial development to include additional use cases and show off more features of CircleCI.
 
-If you are coming here form the [Java Language Guide](https://circleci.com/docs/2.0/language-java/#config-walkthrough) please follow along at [this revision](https://github.com/CircleCI-Public/circleci-demo-java-spring/tree/9dcdae5e2988b207e0ac9b6bb9cf8ed711fba4ad) before major changes began to take place.
+If you are coming here form the [Java Language Guide](https://circleci.com/docs/2.0/language-java/#config-walkthrough) please follow along at [this revision]([https://github.com/CircleCI-Public/circleci-demo-java-spring](https://github.com/HosmosTN/circleci-demo-java-spring/tree/9dcdae5e2988b207e0ac9b6bb9cf8ed711fba4ad) before major changes began to take place.
 
 This message will be removed once the CircleCI documentation matches this repository again.
 
@@ -19,7 +19,7 @@ This application uses the following tools:
 * Thymeleaf
 
 You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-java/).
-An older version of this sample project that uses Maven is accessible [here](https://github.com/CircleCI-Public/circleci-demo-java-spring/tree/maven) though it is no longer being actively maintained.
+An older version of this sample project that uses Maven is accessible [here]([[https://github.com/CircleCI-Public/circleci-demo-java-spring](https://github.com/HosmosTN/circleci-demo-java-spring](https://github.com/HosmosTN/circleci-demo-java-spring/tree/maven) though it is no longer being actively maintained.
 
 ## Local Development
 
